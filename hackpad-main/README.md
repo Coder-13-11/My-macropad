@@ -1,4 +1,4 @@
-# Mixu's Macropad // Hack Club Hackpad
+# Karthik's Macropad + Hack Club
 My own macropad for my personal USE.
 
 It has two layers to work with: one for media controls and the other for copy, paste, and undo. The knob click changes layers. It runs KMK, so it’s very easy to change it later if I want to add more functionality. There’s also an RGB LED, which I plan to use as a status LED. The OLED screen will have some animations and maybe some stats about my PC.
