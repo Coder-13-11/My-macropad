@@ -16,6 +16,12 @@ Waiting for Approval :D
 _The PCB is PLACED in between the case parts  lol :)
 </p>
 
+## PCB
+<img width="701" height="432" alt="image" src="https://github.com/user-attachments/assets/a2e48d15-2e69-491c-8719-f7d5ebac7110" />
+Schematic Design:
+<img width="767" height="313" alt="image" src="https://github.com/user-attachments/assets/0218e37d-ed15-422c-9640-592a28ee463d" />
+
+
 
 ## BOM
 1x Seeed XIAO RP2040
